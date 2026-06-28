@@ -1,0 +1,29 @@
+[
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "rating": 9.1,
+    "genres": ["أكشن", "كوميدي", "مغامرة"],
+    "description": "قرصان شاب يبحث عن أعظم كنز بالعالم ليصبح ملك القراصنة، بمغامرة لا تنتهي وسط بحار خطيرة...",
+    "chapters": 1100,
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "title": "Jujutsu Kaisen",
+    "rating": 9.5,
+    "genres": ["أكشن", "فانتازيا", "رعب"],
+    "description": "عالم لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر...",
+    "chapters": 265,
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+  },
+  {
+    "id": "chainsaw-man",
+    "title": "Chainsaw Man",
+    "rating": 9.8,
+    "genres": ["أكشن", "رعب", "دراما"],
+    "description": "شاب فقير يعيش مع شيطانه المنشار، يتحول لصياد شياطين بعد صفقة غريبة تمنحه قوى خارقة...",
+    "chapters": 180,
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+  }
+]
