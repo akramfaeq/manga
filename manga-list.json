@@ -2,6 +2,7 @@
 {
   "id": "one-piece",
   "title": "One Piece",
+  "featured": true,
   "rating": 9.1,
   "type": "مانغا",
   "status": "مستمرة",
