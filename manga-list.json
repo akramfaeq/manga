@@ -1,4 +1,18 @@
 [
+   {
+    "id": "naruto",
+    "title": "Naruto",
+   "featured": true,
+    "rating": 9.8,
+    "type": "مانغا",
+   "status": "مستمرة",
+    "genres": ["أكشن", "رعب", "دراما"],
+    "description": "شاب فقير يعيش مع شيطانه المنشار، يتحول لصياد شياطين بعد صفقة غريبة تمنحه قوى خارقة...",
+    "chapters": 180,
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+  }
+],
+
 {
   "id": "one-piece",
   "title": "One Piece",
