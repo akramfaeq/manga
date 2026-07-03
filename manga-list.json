@@ -48,4 +48,31 @@
     "chapters": 180,
     "cover": "https://h.top4top.io/p_38314c2m21.jpg"
   }
+     {
+    "id": "Jujutsu",
+    "title": "dragon ",
+     "new_chapter": 111,
+ "updated_at": "2026-07-07T18:00:00Z",
+    "rating": 9.5,
+    "type": "مانغا",
+  "status": "مكتملة",
+    "genres": ["أكشن", "فانتازيا", "رعب"],
+    "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
+    "chapters": 265,
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+  },
+
+  {
+    "id": "plaz",
+    "title": "plaz",
+     "new_chapter": 1200,
+ "updated_at": "2026-07-07T18:00:00Z",
+    "rating": 9.5,
+    "type": "مانغا",
+  "status": "مكتملة",
+    "genres": ["أكشن", "فانتازيا", "رعب"],
+    "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
+    "chapters": 2000,
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+  },
 ]
