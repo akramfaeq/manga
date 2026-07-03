@@ -3,8 +3,6 @@
     "id": "naruto",
     "title": "Naruto",
    "featured": true,
-    "new_chapter": 1110,
-   "updated_at": "2026-07-03T18:00:00Z"
     "rating": 9.8,
     "type": "مانغا",
    "status": "مستمرة",
@@ -14,20 +12,20 @@
     "cover": "https://h.top4top.io/p_38314c2m21.jpg"
   },
 
-{
-  "id": "one-piece",
-  "title": "One Piece",
-  "featured": true,
-  "new_chapter": 10,
-  "updated_at": "2026-07-02T18:00:00Z"
-  "rating": 9.1,
-  "type": "مانغا",
-  "status": "مستمرة",
-  "genres": ["أكشن", "كوميدي", "مغامرة"],
-  "description": "الم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
-  "chapters": 1100,
-  "cover": "https://h.top4top.io/p_38314c2m21.jpg"
-},
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "featured": true,
+    "new_chapter": 1110,
+    "updated_at": "2026-07-03T18:00:00Z",
+    "rating": 9.1,
+    "type": "مانغا",
+    "status": "مستمرة",
+    "genres": ["أكشن", "كوميدي", "مغامرة"],
+    "description": "...",
+    "chapters": 1100,
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+  },
   {
     "id": "Jujutsu-Kaisen",
     "title": "Jujutsu Kaisen",
