@@ -1,17 +1,16 @@
 [
-   {
+  {
     "id": "naruto",
     "title": "Naruto",
-   "featured": true,
+    "featured": true,
     "rating": 9.8,
     "type": "مانغا",
-   "status": "مستمرة",
+    "status": "مستمرة",
     "genres": ["أكشن", "رعب", "دراما"],
     "description": "شاب فقير يعيش مع شيطانه المنشار، يتحول لصياد شياطين بعد صفقة غريبة تمنحه قوى خارقة...",
     "chapters": 180,
     "cover": "https://h.top4top.io/p_38314c2m21.jpg"
   },
-
   {
     "id": "one-piece",
     "title": "One Piece",
@@ -27,11 +26,11 @@
   {
     "id": "Jujutsu-Kaisen",
     "title": "Jujutsu Kaisen",
-     "new_chapter": 110,
- "updated_at": "2026-07-07T18:00:00Z",
+    "new_chapter": 110,
+    "updated_at": "2026-07-07T18:00:00Z",
     "rating": 9.5,
     "type": "مانغا",
-  "status": "مكتملة",
+    "status": "مكتملة",
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
     "chapters": 265,
@@ -42,37 +41,36 @@
     "title": "Chainsaw Man",
     "rating": 9.8,
     "type": "مانغا",
-  "status": "مستمرة",
+    "status": "مستمرة",
     "genres": ["أكشن", "رعب", "دراما"],
     "description": "شاب فقير يعيش مع شيطانه المنشار، يتحول لصياد شياطين بعد صفقة غريبة تمنحه قوى خارقة...",
     "chapters": 180,
     "cover": "https://h.top4top.io/p_38314c2m21.jpg"
-  }
-     {
+  },
+  {
     "id": "Jujutsu",
-    "title": "dragon ",
-     "new_chapter": 111,
- "updated_at": "2026-07-07T18:00:00Z",
+    "title": "dragon",
+    "new_chapter": 111,
+    "updated_at": "2026-07-07T18:00:00Z",
     "rating": 9.5,
     "type": "مانغا",
-  "status": "مكتملة",
+    "status": "مكتملة",
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
     "chapters": 265,
     "cover": "https://h.top4top.io/p_38314c2m21.jpg"
   },
-
   {
     "id": "plaz",
     "title": "plaz",
-     "new_chapter": 1200,
- "updated_at": "2026-07-07T18:00:00Z",
+    "new_chapter": 1200,
+    "updated_at": "2026-07-07T18:00:00Z",
     "rating": 9.5,
     "type": "مانغا",
-  "status": "مكتملة",
+    "status": "مكتملة",
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
     "chapters": 2000,
     "cover": "https://h.top4top.io/p_38314c2m21.jpg"
-  },
+  }
 ]
