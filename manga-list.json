@@ -9,7 +9,8 @@
     "genres": ["أكشن", "رعب", "دراما"],
     "description": "شاب فقير يعيش مع شيطانه المنشار، يتحول لصياد شياطين بعد صفقة غريبة تمنحه قوى خارقة...",
     "chapters": 180,
-    "cover": "https://h.top4top.io/p_3852o4s4k1.jpg"
+    "cover": "https://h.top4top.io/p_3852o4s4k1.jpg",
+    "mangadex_id": "dbc9e2f2-6e84-4b56-a3ba-f88e04c7cbf2"
   },
   {
     "id": "one-piece",
@@ -21,7 +22,8 @@
     "genres": ["أكشن", "كوميدي", "مغامرة"],
     "description": "...",
     "chapters": 1100,
-    "cover": "https://b.top4top.io/p_3852egvnm1.jpg"
+    "cover": "https://b.top4top.io/p_3852egvnm1.jpg",
+    "mangadex_id": "a1c7c817-4e59-43b7-9365-09675a149a6f"
   },
   {
     "id": "Jujutsu-Kaisen",
@@ -34,7 +36,8 @@
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
     "chapters": 265,
-    "cover": "https://c.top4top.io/p_385218tad1.jpg"
+    "cover": "https://c.top4top.io/p_385218tad1.jpg",
+    "mangadex_id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a"
   },
   {
     "id": "chainsaw-man",
@@ -45,7 +48,8 @@
     "genres": ["أكشن", "رعب", "دراما"],
     "description": "شاب فقير يعيش مع شيطانه المنشار، يتحول لصياد شياطين بعد صفقة غريبة تمنحه قوى خارقة...",
     "chapters": 180,
-    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg",
+    "mangadex_id": "a77742b1-befd-49a4-bff5-1ad4e6b0ef7b"
   },
   {
     "id": "dragon",
@@ -58,7 +62,8 @@
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
     "chapters": 265,
-    "cover": "https://e.top4top.io/p_38527o0bm1.jpg"
+    "cover": "https://e.top4top.io/p_38527o0bm1.jpg",
+    "mangadex_id": ""
   },
   {
     "id": "solo",
@@ -71,11 +76,12 @@
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لصياد",
     "chapters": 2000,
-    "cover": "https://f.top4top.io/p_3852n0jkn1.jpg"
+    "cover": "https://f.top4top.io/p_3852n0jkn1.jpg",
+    "mangadex_id": ""
   },
-    {
+  {
     "id": "conan",
-    "title": "detdctive conan",
+    "title": "Detective Conan",
     "new_chapter": 1166,
     "updated_at": "2026-07-03T18:00:00Z",
     "rating": 9.5,
@@ -84,19 +90,21 @@
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
     "chapters": 2000,
-    "cover": "https://h.top4top.io/p_38314c2m21.jpg"
+    "cover": "https://h.top4top.io/p_38314c2m21.jpg",
+    "mangadex_id": ""
   },
-   {
+  {
     "id": "Attack",
-    "title": "Attack on Titen",
+    "title": "Attack on Titan",
     "new_chapter": 111,
-    "updated_at": "2026-07-019T18:00:00Z",
+    "updated_at": "2026-07-19T18:00:00Z",
     "rating": 9.5,
     "type": "مانغا",
     "status": "مكتملة",
     "genres": ["أكشن", "فانتازيا", "رعب"],
     "description": "عالم... لا يكون فيه الإنسان آخر حلقة بالسلسلة الغذائية، وأي شخص عادي قد يتحول فجأة لساحر",
     "chapters": 265,
-    "cover": "https://l.top4top.io/p_38520t3aq1.jpg"
+    "cover": "https://l.top4top.io/p_38520t3aq1.jpg",
+    "mangadex_id": ""
   }
 ]
